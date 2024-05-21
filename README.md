@@ -1,6 +1,7 @@
 # gaussian_splatting_detailed
+**A repo. which used to check 3D Gaussian Splatting.**
 
-**For "SIBR_viewers", use branch "fossa_compatibility" on Ubuntu20.04.**
+For "SIBR_viewers", use branch "fossa_compatibility" on Ubuntu20.04.
 
 # 3D Gaussian Splatting for Real-Time Radiance Field Rendering
 
